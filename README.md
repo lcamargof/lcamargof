@@ -1,10 +1,10 @@
 Hey there! I'm ...
 
-# luis camargo
+## Luis Camargo
 
 software eng @ reserve protocol. tech nerd. typescript enjoyer (i survived).
 
-currently exploring how to push my intern 🤖 to the limit.
+currently exploring how to push my intern to the limit.
 
 <top langs widget>
 
